@@ -1,0 +1,19 @@
+body {
+    font-family: "Roboto", sans-serif;
+}
+section {
+    padding-left: 5%;
+}
+.top-sec {
+    display: flex;
+}
+.div1-1 {
+    width: 100%;
+}
+
+h1 {
+    font-size: 60px;
+}
+.span1 {
+    color: orange;
+}
