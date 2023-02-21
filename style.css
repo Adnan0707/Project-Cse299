@@ -14,6 +14,27 @@ section {
 h1 {
     font-size: 60px;
 }
+.header-2 {
+    text-align: center;
+}
 .span1 {
     color: orange;
+}
+.div2-1 {
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    box-shadow: 10px 10px 40px gray;
+    padding-left: 3%;
+    border-left: 7px solid tomato;
+    border-radius: 10px;
+}
+.by-air {
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 3%;
+    box-shadow: 10px 10px 40px gray;
+    border-left: 7px solid tomato;
+    border-radius: 10px;
 }
