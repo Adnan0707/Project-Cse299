@@ -1,0 +1,49 @@
+.log-in {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+
+}
+
+.log-in input {
+    margin-top: 20px;
+    font-size: 1.5em;
+    font-weight: 700;
+    padding: 10px 5px;
+}
+
+.log-in input[type="submit"] {
+    background-color: black;
+    color: white;
+    border: 0;
+    border-radius: 10px;
+}
+
+.register-button {
+    text-decoration: none;
+    color: black;
+    font-weight: 700;
+}
+.span-1 {
+    margin: 0;
+    font-size: 20px;
+    font-weight: 700;
+}
+nav {
+    display: flex;
+    justify-content: space-between;
+}
+nav a {
+    margin: 0 5px;
+    color: black;
+}
+body {
+    font-family: "Roboto", sans-serif;
+    background-image: url("images/piclogin.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+
+}
+
